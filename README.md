@@ -2,15 +2,32 @@
 
 To do List application made with Flutter
 
-## Getting Started
+## Project Overview
 
-This project is a starting point for a Flutter application.
+Application realized with flutter and Provider package as state management
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The Welcome Screen
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20211002-130217](https://user-images.githubusercontent.com/38215895/135715961-549a4fc8-e68c-426d-86b8-3cfcb7ec0d4e.jpg)
+
+The Main Page
+
+![Screenshot_20211002-130322](https://user-images.githubusercontent.com/38215895/135715969-747227ea-9052-4569-97f6-b4669709d8d5.jpg)
+
+Add new task => Modal
+
+![Screenshot_20211002-130342](https://user-images.githubusercontent.com/38215895/135715988-ca924d59-bad2-4af7-845b-9de265d9b10a.jpg)
+
+Side Bar
+
+![Screenshot_20211002-130352](https://user-images.githubusercontent.com/38215895/135715998-1623241a-bca7-4d50-a3a7-9b54b9a49614.jpg)
+
+Delete a completed task
+
+![Screenshot_20211002-130331](https://user-images.githubusercontent.com/38215895/135716014-03e1121b-376e-4c14-97c9-c7726fee551f.jpg)
+
+Design Inspiration :
+
+https://dribbble.com/shots/14153121-ToDo-App-Dark-Theme
