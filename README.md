@@ -18,15 +18,15 @@ The Main Page
 
 Add new task => Modal
 
-img src="https://user-images.githubusercontent.com/38215895/135715988-ca924d59-bad2-4af7-845b-9de265d9b10a.jpg" width=300 align=center>
+<img src="https://user-images.githubusercontent.com/38215895/135715988-ca924d59-bad2-4af7-845b-9de265d9b10a.jpg" width=300 align=center>
 
 Side Bar
 
-img src="https://user-images.githubusercontent.com/38215895/135715998-1623241a-bca7-4d50-a3a7-9b54b9a49614.jpg" width=300 align=center>
+<img src="https://user-images.githubusercontent.com/38215895/135715998-1623241a-bca7-4d50-a3a7-9b54b9a49614.jpg" width=300 align=center>
 
 Delete a completed task
 
-img src="https://user-images.githubusercontent.com/38215895/135716014-03e1121b-376e-4c14-97c9-c7726fee551f.jpg" width=300 align=center>
+<img src="https://user-images.githubusercontent.com/38215895/135716014-03e1121b-376e-4c14-97c9-c7726fee551f.jpg" width=300 align=center>
 
 Design Inspiration :
 
