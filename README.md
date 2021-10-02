@@ -10,6 +10,8 @@ Application realized with flutter and Provider package as state management
 
 The Welcome Screen
 
+<img src="https://user-images.githubusercontent.com/38215895/135715961-549a4fc8-e68c-426d-86b8-3cfcb7ec0d4e.jpg" width=300 align=center>
+
 ![Screenshot_20211002-130217](https://user-images.githubusercontent.com/38215895/135715961-549a4fc8-e68c-426d-86b8-3cfcb7ec0d4e.jpg)
 
 The Main Page
